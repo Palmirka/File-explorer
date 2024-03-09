@@ -1,0 +1,4 @@
+(executable
+ (public_name fexplorer)
+ (name main)
+ (libraries notty notty.unix explorer monad))
